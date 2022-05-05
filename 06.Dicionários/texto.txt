@@ -1,0 +1,37 @@
+1 - Tempo de conclusão de 100 metros rasos (OK!)
+2 - Cifra de substituição (OK!)
+3 - Lista para dicionários (OK!)
+4 - Preço do Livro (OK!)
+5 - Média de Notas (OK!)
+6 - Primeira Ocorrencia de caractere (OK!)
+7 - Porcentagem de erro (OK!)
+8 - Compras da semana (OK!)
+9 - Ficou de dp (OK!)
+10 - Vencedor da Corrida (OK!)
+11 - Conta ocorrencia de palavras (OK!)
+12 - Conta ocorrencia de letras (OK!)
+13 - Intersecção de chaves (OK!)
+14 - Software de tradução (OK!)
+15 - Intersecção de valores (OK!)
+16- Promoção de viagens!	
+17 - Gastos do semestre por bairro	(OK!)
+18 - Quadro de Medalhas	
+19 - Peças no estoque	(OK!)
+20 - Domínios de Topo	(OK!)
+21 - Iniciando o Jogo de Dominó	(OK!)
+22- Inverte dicionário	(OK!)
+23 - Estado mais populoso	(OK!)
+24 - Aniversariantes de setembro	
+25 - Palavra mais frequente	(OK!)
+26 - Jogo de aventura	
+27 - Classifica faixas etárias	
+28 - Preço do combustível	
+29 - Receita de bolo	(OK!)
+30 - Conta bigramas	 (OK!)
+31 - Medalhistas olímpicos	
+32 - Média de notas por inicial do nome	(OK!)
+33 - Bairro mais custoso	(OK!)
+34 - Kits de materiais	
+35 - Atletas por nacionalidade	
+36- Média de idades dos atletas	
+37 - Checa primos
