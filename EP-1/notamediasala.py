@@ -1,0 +1,7 @@
+nota_alunos = float(input("Quer adicionar nota de mais uma aluno?: "))
+nota_quizzes = float(input("Qual a nota dos quizzes em ordem?: "))
+nota_ai = float(input('Qual a nota da AI?: '))
+nota_af = float(input('Qual a nota da Af?: '))
+nota_ep1 = float(input('Qual a nota do EP1?: '))
+nota_ep2 = float(input('qual a nota do EP2?: '))
+nota_pf = float(input('Qual a nota do PF?:'))
